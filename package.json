@@ -1,0 +1,22 @@
+{
+  "name": "threads-foundation",
+  "version": "0.0.1",
+  "description": "Foundation for the threads design system",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfmcphee/threads-foundation.git"
+  },
+  "author": "Dominic McPhee <dominic.mcphee@gmail.com> (https://dfmcphee.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dfmcphee/threads-foundation/issues"
+  },
+  "homepage": "https://github.com/dfmcphee/threads-foundation#readme",
+  "engines": {
+    "node": ">=6.2.0"
+  },
+}
