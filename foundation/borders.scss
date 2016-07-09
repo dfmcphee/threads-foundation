@@ -9,6 +9,7 @@ $borders-data: (
 
 /*============================================================================
   Returns the default border.
+  @param {String} $variant The key for the border variant
   @return {List} The border value.
 ==============================================================================*/
 @function border($variant: base) {
